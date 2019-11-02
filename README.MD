@@ -1,5 +1,6 @@
-#JavaScript práctico: Realidad virtual con Hololens
+# JavaScript práctico: Realidad virtual con Hololens
 
+![Certificado ](https://github.com/devjaime/linkedin_javascript_hololens/blob/master/certificado/certificado.png)
 ## Contenidos
 
 ### Instroducción al desarrollo con Hololens
